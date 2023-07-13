@@ -1,31 +1,5 @@
 # State_student_data_intervention
 
-SCEP Data Test
-Instructions
-● You have 5 hours from when you receive this test to complete it and submit
-your solutions. Late submissions will be penalized.
-● This test should be completed using any programming language you prefer
-such as Python, STATA and R
-● Important Dos and Don’ts
-○ DOs: You can consult any online resource or book to get more
-information on the commands to use, etc.
-○ DON'TS: You should not, under any circumstance, consult any other
-persons to do this. You should also not consult sources like ChatGPT.
-(The next round will also test your ability to code in a more proctored
-environment)
-● The test has three sections
-○ Exercises: This section tests your basic data cleaning and merging skills
-○ (Optional) Bonus 1: to test your data visualization skills
-○ (Optional) Bonus 2: to test your data analysis skills
-Final Deliverables
-● Your code with comments explaining your steps. (This code should also
-include all the commands you used for the bonus sections i.e graphs and
-regression)
-● If you attempted Bonus 1 section: pdf document that contains two graphs
-and a brief write up of your interpretation.
-● If you attempted Bonus 2 section: pdf document that contains two
-regression tables and a brief write up of your interpretation.
-1
 Data Description
 Imagine that a state (fictional) recently piloted an intervention that provides
 additional reading material to schools in order to improve student learning
